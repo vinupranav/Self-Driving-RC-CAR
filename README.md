@@ -1,4 +1,4 @@
-# f1tenth_ws
+# F1tenth_ws
 This a repository that contains ready-to-run autonomous racing packages for the [F1TENTH](https://f1tenth.org/) on ROS2 (>= Foxy). It can be directly be deployed on the physical car. We've also included launch and config files for the [simulation environment](https://github.com/f1tenth/f1tenth_gym_ros), which uses slightly different topics for odometry.
 
 Below is a demo of the car running the code from this repository in the E7 building at the University of Waterloo at a top speed of ~25km/h, record on March 30th 2023.
